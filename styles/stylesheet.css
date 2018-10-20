@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  color:White;
+  background-color:rgba(34,125,170,1);
+  font-family:verdana;
+  }
+header {
+  text-align:center;
+}
+nav {
+  clear:both;
+  text-align:center;
+}
+h1 {
+  font-size:70px;
+}
+h2 {
+  color: Black;
+  /* font-family:comic; */
+}
+section {
+  clear:both;
+}
+ .project-list {
+  color: black;
+}
+#head-shot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:5px solid rgba(34,125,170,1);
+  border-radius: 50%;
+}
+#contacts {
+  text-align: center;
+}
+footer {
+  clear:both;
+}
