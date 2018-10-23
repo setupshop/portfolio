@@ -3,8 +3,15 @@
 }
 body {
   color:White;
-  background-color:rgba(34,125,170,1);
+  background-image:url('http://yodobi.com/4k-Wallpapers/black-background-Is-4K-Wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
   font-family:verdana;
+  }
+a {
+    color: rgb(216, 120, 23);
   }
 header {
   text-align:center;
@@ -17,20 +24,19 @@ h1 {
   font-size:70px;
 }
 h2 {
-  color: Black;
-  /* font-family:comic; */
+  color: white;
 }
 section {
   clear:both;
 }
  .project-list {
-  color: black;
+  color: white;
 }
 #head-shot {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border:5px solid rgba(34,125,170,1);
+  border:1px solid white;
   border-radius: 50%;
 }
 #contacts {
@@ -38,4 +44,6 @@ section {
 }
 footer {
   clear:both;
+  font-style: italic;
+  font-size: 13px;
 }
