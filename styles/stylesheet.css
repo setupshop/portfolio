@@ -31,6 +31,7 @@ section {
 }
  .project-list {
   color: white;
+  background-color: pink;
 }
 #head-shot {
   display: block;
