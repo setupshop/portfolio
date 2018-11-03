@@ -30,6 +30,7 @@ section {
   clear:both;
 }
  .project-list {
+   overflow: auto;
   color: white;
   background-color: pink;
 }
